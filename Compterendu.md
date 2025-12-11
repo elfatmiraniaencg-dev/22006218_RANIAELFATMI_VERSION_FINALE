@@ -1,6 +1,5 @@
 # 📘 GUIDE COMPLET : PROJET DATA SCIENCE - MARKETING BANCAIRE
 
-> **Instructions pour Google Colab** : Copie chaque section dans une cellule **Markdown** séparée (+ Text) pour une meilleure organisation
 
 ---
 
