@@ -1,3 +1,8 @@
+
+<p align="left">
+  <img src="logoencgsettat.jpg" width="100" alt="Logo">
+</p>
+
 # 📘 GUIDE COMPLET : PROJET DATA SCIENCE - MARKETING BANCAIRE
 
 <p align="center">
