@@ -1,8 +1,9 @@
 # 📘 GUIDE COMPLET : PROJET DATA SCIENCE - MARKETING BANCAIRE
 
 <p align="center">
-  <img src="image%20rania.jpg">
+  <img src="image%20rania.jpg" width="350">
 </p>
+
 
 Réalisé par : RANIA EL FATMI 
 
